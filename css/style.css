@@ -64,7 +64,7 @@ a{
 }
 .principal{
     background: #ff6cb5;
-    height: 40px;
+    height: auto;
     max-width: 60%;
     margin: 0 auto;
 }
