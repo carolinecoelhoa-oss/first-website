@@ -78,4 +78,9 @@ a{
     line-height: 2.5;
     margin: 0 75px;
 }
+nav ul li a:hover,
+nav ul li a:focus {
+    color: #ffffff;
+    text-decoration: underline;
+}
 
